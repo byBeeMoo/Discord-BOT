@@ -1,0 +1,2 @@
+COMMAND 'ranking': return top 10 richest players and {user} position in ranking
+COMMAND 'money' optionally see other players money by writing their names without #
